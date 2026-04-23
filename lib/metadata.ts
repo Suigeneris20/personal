@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const siteConfig = {
   name: "Ife Adebiyi",
   description: "Engineer with an aptitude for learning.",
-  url: "https://ifearifalodotcom.vercel.app",
+  url: "https://ifepense.com",
 };
 
 export function generatePageMetadata({
