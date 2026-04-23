@@ -6,7 +6,7 @@ export function Nav() {
     <header className="sticky top-0 z-40 border-b border-[--border] bg-[--bg]/90 backdrop-blur-sm">
       <nav className="max-w-3xl mx-auto px-6 py-4 flex items-center justify-between">
         <Link href="/" className="font-semibold tracking-tight hover:opacity-70 transition-opacity">
-          Ife Arifalo
+          Ife Adebiyi
         </Link>
         <div className="flex items-center gap-5 text-sm text-[--muted]">
           <Link href="/projects" className="hover:text-[--fg] transition-colors">Projects</Link>
