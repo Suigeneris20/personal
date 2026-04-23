@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const siteConfig = {
   name: "Ife Arifalo",
-  description: "Software engineer, writer, and builder.",
+  description: "Engineer with an aptitude for learning.",
   url: "https://ifearifalodotcom.vercel.app",
 };
 

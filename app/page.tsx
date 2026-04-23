@@ -9,7 +9,7 @@ export default function Home() {
     <div className="max-w-3xl mx-auto px-6">
       <section className="py-24 md:py-36">
         <h1 className="text-4xl font-bold tracking-tight">Ife Arifalo</h1>
-        <p className="mt-3 text-lg text-[--muted]">Software engineer, writer, and builder.</p>
+        <p className="mt-3 text-lg text-[--muted]">Engineer with an aptitude for learning.</p>
         <div className="mt-8 flex gap-5 text-sm">
           <Link href="/projects" className="underline underline-offset-4 hover:text-[--muted] transition-colors">
             Projects

@@ -25,12 +25,12 @@ export default function ContactPage() {
         <div>
           <span className="text-[--muted]">GitHub — </span>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Suigeneris20"
             target="_blank"
             rel="noreferrer"
             className="underline underline-offset-4 hover:text-[--muted] transition-colors"
           >
-            @yourusername
+            @Suigeneris20
           </a>
         </div>
       </div>

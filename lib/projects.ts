@@ -12,7 +12,7 @@ export const projects: Project[] = [
     description:
       "Personal portfolio and blog built with Next.js, Tailwind CSS, and MDX.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "MDX"],
-    repo: "https://github.com/yourusername/personal-site",
+    repo: "https://github.com/Suigeneris20/personal",
     live: "/",
   },
 ];
