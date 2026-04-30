@@ -15,4 +15,12 @@ export const projects: Project[] = [
     repo: "https://github.com/Suigeneris20/personal",
     live: "/",
   },
+  {
+    title: "Fashionable",
+    description:
+      "A directory of sustainable fashion brands and products. Browse and filter items by gender, category, sustainability tags, and brand.",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "PostgreSQL", "Prisma", "Playwright"],
+    repo: "https://github.com/Suigeneris20/fashionable",
+    live: "https://fashionable-kappa.vercel.app/",
+  },
 ];
